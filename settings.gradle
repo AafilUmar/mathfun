@@ -1,3 +1,0 @@
-include ':mathfun'
-include ':app'
-rootProject.name = "FunMaths"
